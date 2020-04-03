@@ -197,17 +197,14 @@
     }
     
     a.internal-link {
-        padding-top: 12px;
-        padding-bottom: 12px;
-        padding-left: 30px;
-        padding-right: 30px;
         padding: units(2) units(4);
         font-size: 18px;
-        color: $teal;
+        //color: $teal;
         font-weight: bold;
-        background-color: #ffffff;
+        //background-color: #ffffff;
         max-width: 275px;
         text-align: center;
         border-radius: units(0.5);
+        text-transform: none;
     }
 }
